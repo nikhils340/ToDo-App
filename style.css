@@ -44,7 +44,7 @@ input, button {
 	appearance: none;
 	border: none;
 	outline: none;
-	background: gray;
+	background: none;
 }
 
 #new-task-input {
